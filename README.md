@@ -67,15 +67,8 @@ for q in queries:
 - **Optimize OCR processing for scanned PDFs**.
 - **Integrate with web-based UI for easier querying**.
 
-## License
-This project is open-source and available under the **MIT License**.
 
-## Author
-Developed by **Mayank Ganesh Herode**.
 
----
 
-### Contributions
-Feel free to fork, open issues, or contribute via pull requests to improve the system!
 
-Happy coding! 🚀
+
