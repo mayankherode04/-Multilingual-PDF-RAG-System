@@ -67,7 +67,7 @@ for q in queries:
 - **Optimize OCR processing for scanned PDFs**.
 - **Integrate with web-based UI for easier querying**.
 
-
+Author - Mayank Herode
 
 
 
